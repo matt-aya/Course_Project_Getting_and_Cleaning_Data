@@ -3,7 +3,7 @@ Human Activity Recognition Using Smartphones Dataset Code_Book :
 Version 1.0
 
 
-......The Original zip file:
+First ......The Original zip file:
 
 Data-sets located in two sets Training and Test
 
@@ -14,7 +14,7 @@ Number of Instances: 10299
 Number of Attributes: 561
 
 
-......The way the script works :
+Second ......The way the script works :
 
 1. set working directory using setwd
 
@@ -33,7 +33,7 @@ Number of Attributes: 561
 8. the final result : "tidy_dataset_with_averages.txt"
 
 
-......Which includes : 
+Third ......Which includes : 
 
 180 rows ID by 30 volunteers performing 6 activities 30 * 6 = 180
 
