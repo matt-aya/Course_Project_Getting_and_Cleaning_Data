@@ -4,10 +4,12 @@ Version 1.0
 
 There are 68 columns in the "tidy_dataset_with_averages.text" described as following :
 
-subject    From 1 to 30
+subject :
+           From 1 to 30
            a group of 30 volunteers
            
-activity   walking
+activity :
+           walking
            walkingupstairs
            walkingdownstairs
            sitting
