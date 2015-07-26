@@ -12,7 +12,7 @@ The files required for the course project are listed in this same repo/directory
 
 The data linked represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
-1st. Download and unzip the from here...
+1st. Download and unzip the Original Data-files from here...
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 

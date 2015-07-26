@@ -129,7 +129,7 @@ fbodybodygyrojerkmag-mean
 fbodybodygyrojerkmag-std
 
 
-A full description of the original data_set is available at the site where the data was obtained: 
+A full description of the Original data_set is available at the site where the data was obtained: 
 
 "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones "
 
