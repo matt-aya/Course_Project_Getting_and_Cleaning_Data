@@ -41,9 +41,9 @@ Third ......Which includes :
 
 subject :
            
-           From 1 to 30
+           Taking values From 1 to 30
            
-           a group of 30 volunteers
+           represent ID's of a group of 30 volunteers
            
 activity :
            
@@ -59,7 +59,7 @@ activity :
            
            laying
            
-All the following 66 columns names are the averages of the variables :
+All the other following 66 columns names are the averages of the variables :
            
 tbodyacc-mean-x
 tbodyacc-mean-y
