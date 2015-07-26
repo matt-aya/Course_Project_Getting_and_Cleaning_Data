@@ -12,13 +12,17 @@ The files required for the course project are listed in this same repo/directory
 
 The data linked represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
-Download and unzip the from here...
+1. Download and unzip the from here...
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-You need to copy the run_analysis.R into the same directory created from unzipping the previous link.
+2. You need to copy the run_analysis.R into the same directory created from unzipping the previous link.
 
 directory name is "UCI HAR Dataset"
+
+3. in your Rstudio, set your working directory to where u unziped "UCI HAR Dataset"
+
+now you can start going through the script.
 
 ...The way the script works :
 

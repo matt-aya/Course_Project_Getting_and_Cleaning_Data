@@ -2,7 +2,42 @@
 Human Activity Recognition Using Smartphones Dataset Code_Book :
 Version 1.0
 
-There are 68 columns in the "tidy_dataset_with_averages.text" described as following :
+
+......The Original zip file:
+
+Data-sets located in two sets Training and Test
+
+The data-sets capture measurements of six activities performed by 30 volunteers
+
+Number of Instances: 10299
+
+Number of Attributes: 561
+
+
+......The way the script works :
+
+1. set working directory using setwd
+
+2. Merges the training and the test sets to create one data set
+
+3. Extracts only the measurements on the mean and standard deviation for each measurement.
+
+4. Uses descriptive activity names to name the activities in the data set
+
+5. Appropriately labels the data set with descriptive variable names.
+
+6. From the data set in step 5, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+7. Finally write the tidy data set created in step 5 as a txt file created with write.table() using row.name=FALSE .
+
+8. the final result : "tidy_dataset_with_averages.txt"
+
+
+......Which includes : 
+
+180 rows ID by 30 volunteers performing 6 activities 30 * 6 = 180
+
+68 columns described as the following :
 
 subject :
            
